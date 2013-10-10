@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chest Seeker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world, Android. :)</string>
+    <string name="group_id">baceb11a508b0fc9f46f0c0d0d2202c4</string>
+
+</resources>
